@@ -1,5 +1,15 @@
 # Changelog
 
+## [2026.10.20](https://github.com/jdx/mise/releases/tag/v2026.10.20) - 2026-10-25
+
+### 📦 Registry
+
+- add packslip and aqua backends to jactionlint by @sahidvelji in [#14947](https://github.com/jdx/mise/pull/14947)
+
+### New Contributors
+
+- @sahidvelji made their first contribution in [#14947](https://github.com/jdx/mise/pull/14947)
+
 ## [2026.10.19](https://github.com/jdx/mise/releases/tag/v2026.10.19) - 2026-10-24
 
 ### 🚀 Features
